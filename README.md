@@ -78,7 +78,7 @@ shards build --release --no-debug -O3
 
 ```shell
 # download repo
-git clone https://github.com/CirklAI/amethyst.git /tmp/amethyst-ssg
+git clone https://github.com/thoq-jar/amethyst.git /tmp/amethyst-ssg
 cd /tmp/amethyst-ssg
 
 # build release
