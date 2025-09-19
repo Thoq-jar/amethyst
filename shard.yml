@@ -1,0 +1,13 @@
+name: amethyst
+version: 0.1.0
+
+authors:
+  - Thoq <tristanshaw000@gmail.com>
+
+targets:
+  amethyst:
+    main: src/amethyst.cr
+
+crystal: ">= 1.17.1"
+
+license: MIT
